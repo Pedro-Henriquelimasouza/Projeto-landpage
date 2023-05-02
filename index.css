@@ -1,0 +1,45 @@
+* {margin:0;}
+
+body {background-image: url(https://i.ibb.co/8sPjsGT/simple-minimalism-black-background-red-dark-artwork-1820829-wallhere-com.png);
+      background-repeat: no-repeat;
+       background-size: cover;
+       height: 100vh;
+       background-position: center;
+        }
+
+        h1 {font-weight: 400;
+            font-size: 30px;
+            line-height: 21px;
+            font-family: 'Bebas Neue', cursive;
+            color: #FFFFFF;
+            text-align: center;
+             }  
+        
+        .nike {max-width: 50px;
+               max-height: 60px;
+            margin-left: 35px;
+            margin-top: 25px;}   
+
+    
+    button {background-color: #EE0000;
+        padding: 16px 48px;
+        border-radius: 200px;}
+
+        .tenis {text-align: center;
+            margin-top: 230px;}
+
+
+        a {text-decoration: none;
+        color: #FFFFFF;
+        font-family: 'Bebas Neue', cursive;
+        font-size: 25px;}
+
+      .git { margin-left: 20px;}
+
+      p {text-align: center;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 25px;
+    color: #EE0000;
+    font-family: 'Bebas Neue', cursive;}
+        
